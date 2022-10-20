@@ -7,11 +7,12 @@ using System.Threading.Tasks;
 
 namespace AutomobileLibrary.Repository
 {
-    internal interface ICarRepository
+    public interface ICarRepository
     {
         IEnumerable<Car> GetCars();
         Car GetCarById(int carId);
         void Add(Car car);
-
+        void Delete(int carID);
+        void Update(Car car);
     }
 }

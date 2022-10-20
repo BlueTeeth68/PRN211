@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daomi\\OneDrive\\Máy tính\\Git\\PRN Document\\Code\\Winform\\Winform\\demoWinform\\demoWinform.csproj",
+      "projectUniqueName": "C:\\Users\\daomi\\OneDrive\\Máy tính\\PRN211\\PRN Document\\Code\\Winform\\Winform\\demoWinform\\demoWinform.csproj",
       "projectName": "demoWinform",
-      "projectPath": "C:\\Users\\daomi\\OneDrive\\Máy tính\\Git\\PRN Document\\Code\\Winform\\Winform\\demoWinform\\demoWinform.csproj",
+      "projectPath": "C:\\Users\\daomi\\OneDrive\\Máy tính\\PRN211\\PRN Document\\Code\\Winform\\Winform\\demoWinform\\demoWinform.csproj",
       "packagesPath": "C:\\Users\\daomi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daomi\\OneDrive\\Máy tính\\Git\\PRN Document\\Code\\Winform\\Winform\\demoWinform\\obj\\",
+      "outputPath": "C:\\Users\\daomi\\OneDrive\\Máy tính\\PRN211\\PRN Document\\Code\\Winform\\Winform\\demoWinform\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
