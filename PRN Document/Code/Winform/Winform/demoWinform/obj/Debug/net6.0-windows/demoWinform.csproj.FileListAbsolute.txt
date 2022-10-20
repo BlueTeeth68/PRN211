@@ -1,0 +1,17 @@
+C:\Users\daomi\OneDrive\Máy tính\Git\PRN Document\Code\Winform\Winform\demoWinform\bin\Debug\net6.0-windows\demoWinform.exe
+C:\Users\daomi\OneDrive\Máy tính\Git\PRN Document\Code\Winform\Winform\demoWinform\bin\Debug\net6.0-windows\demoWinform.deps.json
+C:\Users\daomi\OneDrive\Máy tính\Git\PRN Document\Code\Winform\Winform\demoWinform\bin\Debug\net6.0-windows\demoWinform.runtimeconfig.json
+C:\Users\daomi\OneDrive\Máy tính\Git\PRN Document\Code\Winform\Winform\demoWinform\bin\Debug\net6.0-windows\demoWinform.dll
+C:\Users\daomi\OneDrive\Máy tính\Git\PRN Document\Code\Winform\Winform\demoWinform\bin\Debug\net6.0-windows\demoWinform.pdb
+C:\Users\daomi\OneDrive\Máy tính\Git\PRN Document\Code\Winform\Winform\demoWinform\obj\Debug\net6.0-windows\demoWinform.csproj.AssemblyReference.cache
+C:\Users\daomi\OneDrive\Máy tính\Git\PRN Document\Code\Winform\Winform\demoWinform\obj\Debug\net6.0-windows\demoWinform.frmEmployee.resources
+C:\Users\daomi\OneDrive\Máy tính\Git\PRN Document\Code\Winform\Winform\demoWinform\obj\Debug\net6.0-windows\demoWinform.csproj.GenerateResource.cache
+C:\Users\daomi\OneDrive\Máy tính\Git\PRN Document\Code\Winform\Winform\demoWinform\obj\Debug\net6.0-windows\demoWinform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daomi\OneDrive\Máy tính\Git\PRN Document\Code\Winform\Winform\demoWinform\obj\Debug\net6.0-windows\demoWinform.AssemblyInfoInputs.cache
+C:\Users\daomi\OneDrive\Máy tính\Git\PRN Document\Code\Winform\Winform\demoWinform\obj\Debug\net6.0-windows\demoWinform.AssemblyInfo.cs
+C:\Users\daomi\OneDrive\Máy tính\Git\PRN Document\Code\Winform\Winform\demoWinform\obj\Debug\net6.0-windows\demoWinform.csproj.CoreCompileInputs.cache
+C:\Users\daomi\OneDrive\Máy tính\Git\PRN Document\Code\Winform\Winform\demoWinform\obj\Debug\net6.0-windows\demoWinform.dll
+C:\Users\daomi\OneDrive\Máy tính\Git\PRN Document\Code\Winform\Winform\demoWinform\obj\Debug\net6.0-windows\refint\demoWinform.dll
+C:\Users\daomi\OneDrive\Máy tính\Git\PRN Document\Code\Winform\Winform\demoWinform\obj\Debug\net6.0-windows\demoWinform.pdb
+C:\Users\daomi\OneDrive\Máy tính\Git\PRN Document\Code\Winform\Winform\demoWinform\obj\Debug\net6.0-windows\demoWinform.genruntimeconfig.cache
+C:\Users\daomi\OneDrive\Máy tính\Git\PRN Document\Code\Winform\Winform\demoWinform\obj\Debug\net6.0-windows\ref\demoWinform.dll
